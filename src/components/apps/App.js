@@ -166,7 +166,7 @@ class App extends React.Component {
           {this.state.modalInsertar && (
             <div id="crearReg">
               <div>
-                <h3>Insertar Personaje</h3>
+                <h3>Insertar Datos</h3>
               </div>
 
               <FormGroup>
